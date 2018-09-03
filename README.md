@@ -5,4 +5,3 @@ Frameworks used: Spring MVC, Spring Security, Hibernate, AngularJS, JSP, Bootstr
 
 Languages used: Java, HTML, CSS, JavaScript, JQuery, AngularJS
 
-
